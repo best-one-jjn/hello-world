@@ -1,2 +1,3 @@
 # hello-world
-此存储库用于Github练习
+此文件只用于练习使用
+#print "helloworld"
